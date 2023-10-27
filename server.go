@@ -6,7 +6,7 @@ import (
 	"google.golang.org/grpc"
 	"net"
 
-	pb "student_pb" // import the generated protobuf code
+	pb "golandgRPC/student_pb" // import the generated protobuf code
 )
 
 type server struct {

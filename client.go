@@ -7,7 +7,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "student_pb" // import the generated protobuf code
+	pb "golandgRPC/student_pb" // import the generated protobuf code
 )
 
 func main() {
